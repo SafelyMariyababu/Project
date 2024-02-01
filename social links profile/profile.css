@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Lemon', serif;
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Oleo Script', system-ui;
+}
+body{
+    text-align: center;
+    background-color:aqua;
+    margin-top: 20rem;
+}
+.profile img{
+    width: 15rem;
+    height: 15rem;
+    margin-top: 3rem;
+    border-radius: 50%;
+}
+.profile {
+    background-color: black;
+    color: #fff;
+    width: 50rem;
+    height: 70rem;
+    border-radius: 20px;
+    margin-left: 70rem;
+    margin-top: 20rem;
+}
+
+.profile h1{
+    font-size: 3rem;
+    margin-top: 1.5rem;
+}
+.profile h3{
+    font-size: 2.4rem;
+    color: yellow;
+    margin-top: 0.5rem;
+}
+
+.profile p{
+    font-size: 2.2rem;
+    color: grey;
+    margin-top: 2.5rem;
+}
+
+.links ul li{
+    padding: 12px;
+    list-style-type: none;
+    
+}
+
+.links ul li button{
+    width:40rem;
+    height: 4.8rem;
+    border-radius: 10px;
+    font-size: 1.7rem;
+    background-color: rgb(43, 42, 42);
+    color: #fff;
+    
+}
+.links{
+    margin-top: 2rem;
+}
