@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+    background-color: greenyellow;
+    font-family: 'Lemon', serif;
+    font-family: 'Lobster', sans-serif;
+
+}
+
+.babu h1{
+
+    color: white;
+    font-size: 50px;
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
+.mariya{
+    display: flex;
+    gap: 15rem;
+    margin-left: 15rem;
+    margin-top: 8rem;
+    color: #fff;
+}
+.aaman img{
+    width: 90rem;
+    
+}
+
+.nabiya h1{
+    font-size: 7rem;
+    margin-top: 5rem;
+    
+}
+
+.nabiya p{
+    font-size: 4rem;
+    margin-top:4rem ;
+}
+
+
+.nabiya button{
+    background-color: #fff;
+    color:black;
+    width: 38rem;
+    height: 7rem;
+    border-radius: 80px;
+    margin-top: 3rem;
+    font-size: 3.5rem;
+}
+
+.symbols i{
+    gap: 5rem;
+    font-size: 4rem;
+
+}
+
+.symbols{
+    text-align: right;
+    margin-right: 30rem;
+    
+}
+
