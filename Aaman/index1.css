@@ -1,0 +1,78 @@
+
+body{
+    text-align: center;
+}
+.top{
+    background-color: aqua;
+    width: 1300px;
+    margin-left: 1000px;
+    margin-top: 100px;
+    
+}
+.top .c{
+    text-align: left;
+    margin: 50px;
+    padding: 50px;
+
+
+}
+.top .c h2{
+    font-size: 3rem;
+    color: green;
+}
+.top .c h3{
+    font-size: 2rem;
+    color: grey;
+    line-height: 4rem;
+}
+.top .c h1{
+    color: rgb(24, 12, 250);
+    
+    font-size: 4rem;
+}
+
+.bottom{
+    display: flex;
+    margin-left: 1000px;
+    
+}
+
+.bottom .jj{
+    background-color: pink;
+    width: 450px;
+    height: 250px;
+    text-align: left;
+    padding: 100px;
+}
+.bottom .jjj{
+    background-color: darkmagenta;
+    width: 450px;
+    height: 250px;
+    text-align: left;
+    padding: 100px;
+}
+
+.bottom .jj button{
+    background-color: rgb(0, 128, 19);
+    color: white;
+    font-size: 3rem;
+    margin-top: 20px;
+}
+.bottom .jj h3{
+    font-size: 30px;
+}
+.bottom .jj  h2 span{
+    font-size: 3.5rem;
+}
+.bottom .jj p{
+    font-size: 20px;
+}
+.bottom .jjj h3{
+    font-size: 30px;
+}
+.bottom .jjj p{
+    line-height: 30px;
+    font-size: 25px;
+}
+
+

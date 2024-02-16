@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color: rgb(140, 212, 188);
+}
+h1 span{
+    color: grey;
+}
+h1{
+    font-size: 3.5rem;
+    margin-top: 2rem;
+}
+p{
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.team{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    margin-left:1225px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.team img{
+    margin-top: 80px;
+    margin-left: 350px;
+    width: 100px;
+}
+.team h2{
+    color: black;
+    font-size: 3rem;
+}
+.team p{
+    color: grey;
+}
+
+.calculator{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.calculator h2{
+    color: black;
+    font-size: 3rem;
+}
+.calculator p{
+    color: grey;
+}
+.calculator  img{
+    margin-top: 80px;
+    margin-left: 350px;
+    width: 100px;
+}
+.karma{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    border-radius: 10px;
+    margin-left:1250px ;
+    margin-top: 20px;
+}
+.karma h2{
+    color:black ;
+    font-size: 3rem;
+}
+.karma p{
+    color: grey;
+}
+.karma  img{
+    margin-top: 50px;
+    margin-left: 350px;
+    width: 100px;
+}
+.supervisor{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.supervisor  h2{
+    color: black;
+    font-size: 3rem;
+}
+.supervisor p{
+    color: grey;
+}
+.supervisor img{
+    margin-top: 80px;
+    margin-left: 350px;
+    width: 100px;
+}
+.m{
+    display: flex;
+    gap: 16rem;
+    margin-left: 50rem;
+    margin-top: 20px;
+    
+}
+.hr{
+    color: red;
+}
+
+
+
